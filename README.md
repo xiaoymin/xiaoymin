@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 正在学习[ChatGPT](https://www.xiaominfo.com/chatgpt)、[langchain](http://localhost:3000/langchain)、大模型
 - 正在筹备Knife4j 5.0版本的发布
 
-## 个人重要事件&里程碑
+## 重要事件&里程碑
 
 ### 2023年
 
