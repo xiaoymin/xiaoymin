@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 - ⭐️ 2020.09.23 [map-client:各大地图厂商的WebApi接口的SDK](http://www.xiaominfo.com/opensource/作品简介/2020-09-23-map-client-open)
 - ⭐️ 2020.08.05 [template-factory:基于Maven插件的代码生成器](http://www.xiaominfo.com/opensource/作品简介/2020-08-05-code-generator-open) 
 - ⭐️ 2020.07.03 [轻量级Spring Boot & Spring Cloud项目自动部署Maven插件`deploy-helper`](http://www.xiaominfo.com/opensource/作品简介/2020-07-03-spring-boot-plugin-deploy)
-- 🔥 2020.03.24 [`Knife4j`](https://gitee.com/xiaoym/knife4j)获得开源中国Gitee官方认证,成为码云的**GVP(码云最有价值开源项目)项目**
-
+- 🔥 2020.03.24 [`Knife4j`](https://github.com/xiaoymin/knife4j)获得开源中国Gitee官方认证,成为码云的**GVP(码云最有价值开源项目)项目**
 
 ### 2019年
 
