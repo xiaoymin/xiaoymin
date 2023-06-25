@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 八一菜刀，Java工程师，是 [Knife4j](https://doc.xiaominfo.com/) 的作者，喜欢开源，折腾!
 
 ⭐️ 个人博客：https://www.xiaominfo.com
+⭐️ twitter：https://twitter.com/xiaoymin
 
 ## 近期活动
 
