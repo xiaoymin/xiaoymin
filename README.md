@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 八一菜刀，Java工程师，是 [Knife4j](https://doc.xiaominfo.com/) 的作者，喜欢开源，折腾!
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 八一菜刀，Java工程师，是 [Knife4j](https://doc.xiaominfo.com/) 的作者，喜欢开源!
 
 ⭐️ 个人博客：https://www.xiaominfo.com
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 近期活动
 
-- 正在学习[ChatGPT](https://www.xiaominfo.com/chatgpt)、[langchain](http://localhost:3000/langchain)、大模型
+- 正在学习[ChatGPT](https://www.xiaominfo.com/chatgpt)、[langchain](http://localhost:3000/langchain)、大模型、React
 - 正在筹备Knife4j 5.0版本的发布
 
 ## 重要事件&里程碑
