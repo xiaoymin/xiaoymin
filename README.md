@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ⭐️ twitter：https://twitter.com/xiaoymin
 
 ## 近期活动
-
+- TorchV Bot开放[试用](https://www.luxiangdong.com/2024/01/25/lanuch-1/?utm_source=xiaoymin)中
 - 正在学习[大模型，RAG](https://www.xiaominfo.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/)、[langchain](https://api.python.langchain.com/en/latest/api_reference.html)、[LlamaIndex](https://docs.llamaindex.ai/en/latest/index.html)等方面的技术
 - 正在筹备Knife4j 5.0版本的发布
 
